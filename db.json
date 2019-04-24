@@ -1,0 +1,27 @@
+{
+  "domains": [
+    {
+      "id": 1,
+      "title": "hello.com",
+      "available": 1
+    },
+    {
+      "id": 2,
+      "title": "hellboy.com",
+      "available": 0
+    },
+    {
+      "id": 3,
+      "title": "google.com",
+      "available": 0
+    },
+     {
+      "id": 4,
+      "title": "chinaiswhereitsat.com",
+      "available": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
